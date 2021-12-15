@@ -1,3 +1,3 @@
 # Fig_geometricas
-1 figura geometrica x clase using Stack
+Whit figs geometric is the major form to explicatetion How is POO. one clase using Stack x Fig.
 $Author Norberto Contreras

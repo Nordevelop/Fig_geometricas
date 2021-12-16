@@ -31,7 +31,7 @@ public class Main {
 		Stack<Rectangulo>Pila_Rectangulo = new Stack<Rectangulo>();
 		Stack<Circulo>Pila_Circulo = new Stack<Circulo>();
 		Stack<Cilindro>Pila_Cilindro = new Stack<Cilindro>();
-		Stack<CajaRectangular>Pila_Rectangular= new 	Stack<CajaRectangular>();
+		Stack<CajaRectangular>Pila_Rectangular= new Stack<CajaRectangular>();
 		Stack<Cubo>Pila_Cubo= new Stack<Cubo>();
 		
 		do

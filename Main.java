@@ -12,7 +12,7 @@ public class Main {
 		// Author      : Nordevelop
 		// Version     :2.1.8
 		// language Prog  : Java
-		// Description : figuras geometricas con clases. implem. 5 pilas y 1 cola
+		// Description : figuras geometricas con 7 clases. implement.  7 pilas
 		//============================================================================================
 		Scanner entra=new Scanner(System.in);
 		Triangulo t=null; //clases

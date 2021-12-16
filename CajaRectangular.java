@@ -8,7 +8,7 @@ public class CajaRectangular {
 	private int ancho;//c
 	private int alto;   //a
 	
-public CajaRectangular (int m, int n, int o) {
+public CajaRectangular (int m, int n, int o) { //class constructor
 	this.largo=m;
 	this.ancho=n;
 	this.alto=o;

@@ -3,6 +3,6 @@ Este repositorio  representa una introducción al maravilloso mundo de la Progra
 Una clase x cada  figura geometrica, utilizando metodos para obtener Perimetros, Areas, Superficie
 Volumen y guardar en una pila(Stack) por cada figura geométrica.
 Para luego mostrar en pantallal os resultados.
-proyecto desarrollado en ECLIPSE.IDE
+proyecto desarrollado en Eclipse Ide
 
 $Author Norberto Contreras

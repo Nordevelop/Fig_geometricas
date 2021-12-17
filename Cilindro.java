@@ -11,18 +11,18 @@ public class Cilindro {
 	 */
 	private float radio; //objetos encapsulados con acceso restringido en la clase Main(
 	private float altura; 
-	public Cilindro (float g, float h )
+	public Cilindro (float g, float h ) //clase constructora(g & h (argumentos de los objetos de la clase))
 	{
 	this.radio= g;
 	this.altura=h;
 	}
 	public float Dar_Area_Cilindro() //metodo area del Cilindro
 	{
-		return (float) (2*Math.PI*(radio + altura)); //2pi*(r+h)
+		return (float) (2*Math.PI*(radio + altura)); //devuelve 2π*(radio+altura)
 	}
 	public float Dar_Volumen_Cilindro() //Metodo Volumen del Cilindro
 	{
-	return (float) (Math.PI*Math.pow(this.radio, 2)*altura); //pi * r**2
+	return (float) (Math.PI*Math.pow(this.radio, 2)*altura); //devuelve π * r**2
 	}
 	
 }

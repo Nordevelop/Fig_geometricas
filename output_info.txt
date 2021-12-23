@@ -1,0 +1,82 @@
+Se formo un triangulo ISOSCELES cuyo perimetro es:40
+****************************************************************
+La Pila de Triangulos ahora tiene 2 Triangulos
+Se formo un triangulo ESCALENO cuyo perimetro es:48
+****************************************************************
+La Pila de Triangulos ahora tiene 1 Triangulos
+Se formo un triangulo EQUILATERO cuyo perimetro es:36
+****************************************************************
+La Pila de Triangulos ahora tiene 0 Triangulos
+********************************************************************
+Se Formo un Cuadrado Cuyo Perimetro tiene: 56//Su Superficie es de: 196
+********************************************************************
+La Pila de Cuadrados ahora tiene: 2 Cuadrados
+Se Formo un Cuadrado Cuyo Perimetro tiene: 48//Su Superficie es de: 144
+********************************************************************
+La Pila de Cuadrados ahora tiene: 1 Cuadrados
+Se Formo un Cuadrado Cuyo Perimetro tiene: 16//Su Superficie es de: 16
+********************************************************************
+La Pila de Cuadrados ahora tiene: 0 Cuadrados
+****************************************************************
+Se formo un Rectangulo cuyo Perimetro tiene: 154//Su superficie es de:726
+********************************************************************
+La Pila de Rectangulos ahora tiene: 1 Rectangulos
+********************************************************************
+Se formo un Rectangulo cuyo Perimetro tiene: 24//Su superficie es de:27
+********************************************************************
+La Pila de Rectangulos ahora tiene: 0 Rectangulos
+********************************************************************
+Se formo una caja Rectangular cuya Area tiene: 642//Cuyo Volumen tiene: 506
+****************************************************************
+La Pila de Cajas Rectangulares ahora tiene: 1 Cajas Rectangulares
+********************************************************************
+Se formo una caja Rectangular cuya Area tiene: 832//Cuyo Volumen tiene: 1104
+****************************************************************
+La Pila de Cajas Rectangulares ahora tiene: 0 Cajas Rectangulares
+********************************************************************
+se formo un Cubo cuya Area tiene: 1536.0// Cuyo Volumen tiene: 4096.0
+********************************************************************
+La Pila de Cubos ahora tiene: 2 Cubos
+********************************************************************
+se formo un Cubo cuya Area tiene: 726.0// Cuyo Volumen tiene: 1331.0
+********************************************************************
+La Pila de Cubos ahora tiene: 1 Cubos
+********************************************************************
+se formo un Cubo cuya Area tiene: 216.0// Cuyo Volumen tiene: 216.0
+********************************************************************
+La Pila de Cubos ahora tiene: 0 Cubos
+********************************************************************
+Se Formo un Circulo cuyo Perimetro tiene: 131.94689145077132//Cuya Area es de: 1385.4423987865448
+La Pila de Circulos ahora tiene: 3 Circulos
+********************************************************************
+Se Formo un Circulo cuyo Perimetro tiene: 25.132741228718345//Cuya Area es de: 50.26548385620117
+La Pila de Circulos ahora tiene: 2 Circulos
+********************************************************************
+Se Formo un Circulo cuyo Perimetro tiene: 69.11503837897544//Cuya Area es de: 380.13272166252136
+La Pila de Circulos ahora tiene: 1 Circulos
+********************************************************************
+Se Formo un Circulo cuyo Perimetro tiene: 12.566370614359172//Cuya Area es de: 12.566370964050293
+La Pila de Circulos ahora tiene: 0 Circulos
+********************************************************************
+Se Formo un Cilindro cuyo Area tiene: 4335.398//Cuyo Volumen tiene: 2382382.8
+****************************************************************
+La Pila de Cilindros ahora tiene: 2 Cilindros
+********************************************************************
+Se Formo un Cilindro cuyo Area tiene: 3487.1677//Cuyo Volumen tiene: 884132.1
+****************************************************************
+La Pila de Cilindros ahora tiene: 1 Cilindros
+********************************************************************
+Se Formo un Cilindro cuyo Area tiene: 565.4867//Cuyo Volumen tiene: 35286.367
+****************************************************************
+La Pila de Cilindros ahora tiene: 0 Cilindros
+********************************************************************
+Se Formo una Esfera cuya Superficie tiene: 1809.5574//Cuyo Volumen tiene: 7238.229
+*************************************************************************************************************************
+La Pila de Esferas ahora tiene: 2 Esferas
+Se Formo una Esfera cuya Superficie tiene: 113.097336//Cuyo Volumen tiene: 113.09733
+*************************************************************************************************************************
+La Pila de Esferas ahora tiene: 1 Esferas
+Se Formo una Esfera cuya Superficie tiene: 6647.61//Cuyo Volumen tiene: 50965.01
+*************************************************************************************************************************
+La Pila de Esferas ahora tiene: 0 Esferas
+****************************** Fin Del Programa ******************************

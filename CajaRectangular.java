@@ -1,7 +1,7 @@
 package misClases;
 
 public class CajaRectangular {
-	/*objetos emcapsulados con acceso restringido en la clase Main
+	/*objetos emcapsulados con acceso restringido fuera de la clase
 	 * 
 	 */
 	private int largo;  //b largo*ancho
@@ -9,6 +9,8 @@ public class CajaRectangular {
 	private int alto;   //a
 	
 public CajaRectangular (int m, int n, int o) { //class constructor
+	//objetos con acceso permitido fuera de la clase
+	
 	this.largo=m;
 	this.ancho=n;
 	this.alto=o;

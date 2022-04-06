@@ -2,11 +2,11 @@ package misClases;
 import java.math.*;
 
 public class Cubo {
-	/*objeto emcapsulados con acceso restringido en la clase main()
+	/*objeto emcapsulados con acceso restringido fuera de la clase Cubo
 	 * author Nordevelop
 	 */
 	private double lado7;
-	public Cubo(double u) //u Parametro
+	public Cubo(double u) //constructor (u) Parametro
 	{
 		this.lado7=u;
 	}

@@ -9,9 +9,9 @@ public class Cilindro {
 	/*
 	 * Author Nordevelop
 	 */
-	private float radio; //objetos encapsulados con acceso restringido en la clase Main(
+	private float radio; //objetos encapsulados con acceso restringido fuera de la clase Cilindro(
 	private float altura; 
-	public Cilindro (float g, float h ) //clase constructora(g & h (argumentos de los objetos de la clase))
+	public Cilindro (float g, float h ) //clase constructor(g & h (argumentos de los objetos de la clase))
 	{
 	this.radio= g;
 	this.altura=h;

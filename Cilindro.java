@@ -8,6 +8,7 @@ import java.math.*;
 public class Cilindro {
 	/*
 	 * Author Nordevelop
+         * encapsular las pilas de todas las figuras en su clases
 	 */
 	private float radio; //objetos encapsulados con acceso restringido fuera de la clase Cilindro(
 	private float altura; 

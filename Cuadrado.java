@@ -2,8 +2,10 @@ package misClases;
 
 public class Cuadrado {
 	private int lado4;
-	public Cuadrado(int d)
-	{
+	private Stack<Integer>Pila_cuadrada()=null;
+	public Cuadrado {(int d) //Constructor
+	
+	Pila_cuadrada = new stack<Integer>();
 	this.lado4=d;
 	}
 	public int dar_Area_Cuadrado()

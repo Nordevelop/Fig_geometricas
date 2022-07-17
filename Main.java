@@ -26,14 +26,14 @@ public class Main {
 		int a,b,c,m,n,o,lado4,lado5,lado6,largo,alto,ancho,op = 0;
 		float radio,radio2,altura,g,h,i,j,v;
 		double lado7,radio1,k, u;
-		Stack<Triangulo> Pila_Triangulo=new Stack<Triangulo>();
-		Stack<Cuadrado> Pila_Cuadrado = new Stack<Cuadrado>();
-		Stack<Rectangulo>Pila_Rectangulo = new Stack<Rectangulo>();
-		Stack<Circulo>Pila_Circulo = new Stack<Circulo>();
-		Stack<Cilindro>Pila_Cilindro = new Stack<Cilindro>();
-		Stack<CajaRectangular>Pila_Rectangular= new Stack<CajaRectangular>();
-		Stack<Cubo>Pila_Cubo= new Stack<Cubo>();
-		Stack<Esfera>Pila_Esfera= new Stack<Esfera>();
+		//Stack<Triangulo> Pila_Triangulo=new Stack<Triangulo>();
+		//Stack<Cuadrado> Pila_Cuadrado = new Stack<Cuadrado>();
+		//Stack<Rectangulo>Pila_Rectangulo = new Stack<Rectangulo>();
+		//Stack<Circulo>Pila_Circulo = new Stack<Circulo>();
+		//Stack<Cilindro>Pila_Cilindro = new Stack<Cilindro>();
+		//Stack<CajaRectangular>Pila_Rectangular= new Stack<CajaRectangular>();
+		//Stack<Cubo>Pila_Cubo= new Stack<Cubo>();
+		//Stack<Esfera>Pila_Esfera= new Stack<Esfera>();
 		do
 		{
 		    System.out.println("Elija la opcion a continuacion");

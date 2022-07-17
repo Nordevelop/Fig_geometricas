@@ -10,10 +10,11 @@ public class Cilindro {
 	 * Author Nordevelop
          * encapsular las pilas de todas las figuras en su clases
 	 */
+	private Stack<float>Pila_Cilindro=null;
 	private float radio; //objetos encapsulados con acceso restringido fuera de la clase Cilindro(
 	private float altura; 
-	public Cilindro (float g, float h ) //clase constructor(g & h (argumentos de los objetos de la clase))
-	{
+	public Cilindro (float g, float h ){ //clase constructor(g & h (argumentos de los objetos de la clase))
+	Pila_Cilindro = new Stack<float>();
 	this.radio= g;
 	this.altura=h;
 	}

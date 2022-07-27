@@ -6,9 +6,11 @@ public class Esfera {
 	 * 
 	 */
 	private float radio2;
+	private Stack <float>Pila_Esfera()=null;
 	public Esfera(float v) //clase constructor
 	{
 		this.radio2=v;
+		Pila_Esfera = new Stack<float>();
 	}
 	public float Dar_Superficie_Esfera() //metodo
 	{

@@ -6,9 +6,11 @@ public class Cubo {
 	 * author Nordevelop
 	 */
 	private double lado7;
+	private Stack<double>Pila_Cuadrado = null:
 	public Cubo(double u) //constructor (u) Parametro
 	{
 		this.lado7=u;
+		Pila_Cuadrado = new Stack<double>();
 	}
 	/*
 	 * Metodos
